@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá! Eu sou o Tomas 👋
 
-<!--
-**tomas-neo/tomas-neo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia Física e atuo na intersecção entre instrumentação de hardware, modelagem de dados e sistemas aeroespaciais. 
 
-Here are some ideas to get you started:
+### O que eu faço
+ **Graduação:** Bacharelado em Engenharia Física na **UFSCar**.
+-  **Pesquisa & Dados:** Estagiário na **Embrapa Instrumentação**, focado na caracterização da variabilidade elementar de fertilizantes comerciais utilizando técnicas de LIBS e modelos de *Machine Learning*.
+-  **Extensão Universitária:** Membro da equipe de aviônica no grupo **TOPUS Aerospace** (USP São Carlos).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Tecnologias e Interesses
+- **Linguagens & Dados:** C++ e Python (Pandas, automação de cálculos de incerteza, Machine Learning).
+- **Hardware:** Prototipagem eletrônica, integração de sistemas com Arduino e automação de iluminação.
+- **Sistemas & Ferramentas:** Linux, Git e ferramentas de produtividade.
+- **Caracterização de Materiais:** Estudos em espectroscopia e Microscopia Eletrônica de Varredura (MEV).
+
+---
+ **Como me encontrar:** [https://www.linkedin.com/in/tomasmarchinigranja](https://www.linkedin.com/in/tomasmarchinigranja/)
